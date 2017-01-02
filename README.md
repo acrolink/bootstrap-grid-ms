@@ -1,4 +1,4 @@
-# Bootstrap Grid Mid-Small
+# Bootstrap Grid Micro-Small
 
 [![Build Status](https://travis-ci.org/adjohnson916/bootstrap-grid-ms.svg)](https://travis-ci.org/adjohnson916/bootstrap-grid-ms)
 
