@@ -1,6 +1,6 @@
 # Bootstrap Grid Micro-Small
 
-[![Build Status](https://travis-ci.org/adjohnson916/bootstrap-grid-ms.svg)](https://travis-ci.org/adjohnson916/bootstrap-grid-ms)
+[![Build Status](https://travis-ci.org/AndersDJohnson/bootstrap-grid-ms.svg)](https://travis-ci.org/AndersDJohnson/bootstrap-grid-ms)
 
 The missing grid range in Bootstrap 3, below `sm`, from 480 to 767 pixels, redefining `xs` to less than 480 pixels.
 

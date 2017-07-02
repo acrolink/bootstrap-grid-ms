@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-grid-ms",
   "version": "3.0.0",
-  "homepage": "https://github.com/adjohnson916/bootstrap-grid-ms",
+  "homepage": "https://github.com/AndersDJohnson/bootstrap-grid-ms",
   "authors": [
     "Anders D. Johnson"
   ],
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/adjohnson916/bootstrap-grid-ms.git"
+    "url": "https://github.com/AndersDJohnson/bootstrap-grid-ms.git"
   },
   "keywords": [
     "bootstrap",
